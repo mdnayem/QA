@@ -5,5 +5,7 @@
 	<classpathentry kind="lib" path="C:/Users/User/Documents/selenium/selenium-2.41.0/selenium-java-2.41.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/User/Documents/selenium/selenium-2.41.0/selenium-java-2.41.0-srcs.jar"/>
 	<classpathentry kind="lib" path="C:/Users/User/Documents/selenium/selenium-2.41.0/selenium-server-standalone-2.41.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Documents/selenium/org.testng.eclipse_6.8.6.20141201_2240.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Documents/selenium/org.testng.feature_5.9.0.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
